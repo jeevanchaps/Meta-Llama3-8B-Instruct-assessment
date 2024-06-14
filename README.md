@@ -19,8 +19,6 @@ This is the model card of a Meta-Llama3-8B-Instruct-assessment model that has be
 - **Finetuned using dataset :** [SelfCode2.0](https://zenodo.org/records/10912669)
 
 
-The files in the repository are just the adapters of the fine-tuned version. You need to load the base model and attach the adapter using PeftModel, run the inference. Full model can be accessed [here](https://huggingface.co/xap/Meta-Llama3-8B-Instruct-assessment)
-
 
 
 ## How to Get Started with the Model
